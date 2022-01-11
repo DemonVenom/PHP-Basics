@@ -5,3 +5,5 @@ Changes from tutorial made to:
 
 
 inc -> exercise.php, hello.php, numbers.php, strings.php, units.php
+
+index.php
